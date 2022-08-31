@@ -1,0 +1,15 @@
+..\obj\key.o: ..\HARDWARE\KEY\key.c
+..\obj\key.o: ..\USER\stm32f10x.h
+..\obj\key.o: ..\CORE\core_cm3.h
+..\obj\key.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+..\obj\key.o: ..\USER\system_stm32f10x.h
+..\obj\key.o: ..\USER\stm32f10x_conf.h
+..\obj\key.o: ..\FWLib\inc\stm32f10x_fsmc.h
+..\obj\key.o: ..\USER\stm32f10x.h
+..\obj\key.o: ..\FWLib\inc\stm32f10x_gpio.h
+..\obj\key.o: ..\FWLib\inc\stm32f10x_rcc.h
+..\obj\key.o: ..\FWLib\inc\stm32f10x_usart.h
+..\obj\key.o: ..\FWLib\inc\misc.h
+..\obj\key.o: ..\FWLib\inc\stm32f10x_tim.h
+..\obj\key.o: ..\HARDWARE\KEY\key.h
+..\obj\key.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h

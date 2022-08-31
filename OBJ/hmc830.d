@@ -1,0 +1,16 @@
+..\obj\hmc830.o: ..\HARDWARE\HMC830\HMC830.c
+..\obj\hmc830.o: ..\HARDWARE\HMC830\HMC830.h
+..\obj\hmc830.o: ..\HARDWARE\delay\sys.h
+..\obj\hmc830.o: ..\USER\stm32f10x.h
+..\obj\hmc830.o: ..\CORE\core_cm3.h
+..\obj\hmc830.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+..\obj\hmc830.o: ..\USER\system_stm32f10x.h
+..\obj\hmc830.o: ..\USER\stm32f10x_conf.h
+..\obj\hmc830.o: ..\FWLib\inc\stm32f10x_fsmc.h
+..\obj\hmc830.o: ..\USER\stm32f10x.h
+..\obj\hmc830.o: ..\FWLib\inc\stm32f10x_gpio.h
+..\obj\hmc830.o: ..\FWLib\inc\stm32f10x_rcc.h
+..\obj\hmc830.o: ..\FWLib\inc\stm32f10x_usart.h
+..\obj\hmc830.o: ..\FWLib\inc\misc.h
+..\obj\hmc830.o: ..\FWLib\inc\stm32f10x_flash.h
+..\obj\hmc830.o: ..\HARDWARE\delay\delay.h

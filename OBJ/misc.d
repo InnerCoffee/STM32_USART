@@ -1,0 +1,13 @@
+..\obj\misc.o: ..\FWLib\src\misc.c
+..\obj\misc.o: ..\FWLib\inc\misc.h
+..\obj\misc.o: ..\USER\stm32f10x.h
+..\obj\misc.o: ..\CORE\core_cm3.h
+..\obj\misc.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+..\obj\misc.o: ..\USER\system_stm32f10x.h
+..\obj\misc.o: ..\USER\stm32f10x_conf.h
+..\obj\misc.o: ..\FWLib\inc\stm32f10x_fsmc.h
+..\obj\misc.o: ..\USER\stm32f10x.h
+..\obj\misc.o: ..\FWLib\inc\stm32f10x_gpio.h
+..\obj\misc.o: ..\FWLib\inc\stm32f10x_rcc.h
+..\obj\misc.o: ..\FWLib\inc\stm32f10x_usart.h
+..\obj\misc.o: ..\FWLib\inc\misc.h
